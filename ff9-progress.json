@@ -9,10 +9,10 @@
   "NumDistinctPlayersHardcore": 6620,
   "NumAchievements": 104,
   "NumAwardedToUser": 63,
-  "NumAwardedToUserHardcore": 63,
+  "NumAwardedToUserHardcore": 64,
   "UserCompletion": "60.58%",
   "UserCompletionHardcore": "60.58%",
-  "UserTotalPlaytime": 194140,
+  "UserTotalPlaytime": 194200,
   "ForumTopicID": 5570,
   "Flags": 0,
   "ImageIcon": "/Images/070800.png",
@@ -1828,7 +1828,9 @@
       "AuthorULID": "01DTTFDPKV22JX26VNNN28T14Q",
       "DateCreated": "2020-06-07 08:32:43",
       "DateModified": "2025-11-19 15:04:59",
-      "MemAddr": "24322f11ffdba918feb5afa7dabf987a"
+      "MemAddr": "24322f11ffdba918feb5afa7dabf987a",
+      "DateEarned": "2026-10-16 15:20:43",
+      "DateEarnedHardcore": "2026-10-16 15:20:43"
     },
     "112938": {
       "ID": 112938,
