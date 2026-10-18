@@ -8,11 +8,11 @@
   "NumDistinctPlayersCasual": 6633,
   "NumDistinctPlayersHardcore": 6633,
   "NumAchievements": 104,
-  "NumAwardedToUser": 92,
-  "NumAwardedToUserHardcore": 92,
-  "UserCompletion": "88.46%",
-  "UserCompletionHardcore": "88.46%",
-  "UserTotalPlaytime": 248540,
+  "NumAwardedToUser": 93,
+  "NumAwardedToUserHardcore": 93,
+  "UserCompletion": "89.42%",
+  "UserCompletionHardcore": "89.42%",
+  "UserTotalPlaytime": 248729,
   "ForumTopicID": 5570,
   "Flags": 0,
   "ImageIcon": "/Images/070800.png",
@@ -1970,14 +1970,16 @@
       "TrueRatio": 60,
       "Type": null,
       "BadgeName": "340161",
-      "NumAwarded": 467,
-      "NumAwardedHardcore": 181,
+      "NumAwarded": 468,
+      "NumAwardedHardcore": 182,
       "DisplayOrder": 8,
       "Author": "BahamutVoid",
       "AuthorULID": "01BBTVE5AZBPH91V56GTZ65WPG",
       "DateCreated": "2023-04-08 20:48:16",
       "DateModified": "2023-10-31 01:08:48",
-      "MemAddr": "3c69ebd05d60261fda3f7ba9405f5a12"
+      "MemAddr": "3c69ebd05d60261fda3f7ba9405f5a12",
+      "DateEarned": "2026-10-18 12:14:32",
+      "DateEarnedHardcore": "2026-10-18 12:14:32"
     }
   }
 }
